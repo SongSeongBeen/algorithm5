@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ch01 {
 	public static void main(String[] args) {
-		//1172번
+		//11720번
 		Scanner sc = new Scanner(System.in);
 		System.out.println("몇자리의 수입니까?");
 		int N =  sc.nextInt();
