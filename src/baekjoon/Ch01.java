@@ -17,6 +17,6 @@ public class Ch01 {
 		for(int i = 0; i < cNum.length; i++) {
 			sum += cNum[i] - '0';//아키코드 숫자의 코드값차이 -	
 		}
-		System.out.println(sum);
+		System.out.println(sum); 
 	}
 }
