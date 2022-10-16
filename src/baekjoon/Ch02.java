@@ -22,6 +22,6 @@ public class Ch02 {
 			sum = sum + A[i];
 		}
 		System.out.println(sum * 100.0 / max / N);
-	}
-
+	} 
+ 
 }
