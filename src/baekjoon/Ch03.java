@@ -24,6 +24,6 @@ public class Ch03 {
 			int i = Integer.parseInt(stringTokenizer.nextToken());
 			int j = Integer.parseInt(stringTokenizer.nextToken());
 			System.out.println(S[j] - S[i -1]);
-		}
+		} 
 	}
 }
